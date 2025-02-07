@@ -1,0 +1,1 @@
+# diseno_de_patrones_40354
